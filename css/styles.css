@@ -1236,6 +1236,7 @@ hr.new {
 .btn--med {
   padding: 1.5rem 5rem;
   font-size: 1.6rem;
+  background: #983961;
 }
 
 .btn--theme {
@@ -1262,4 +1263,36 @@ hr.new {
   background: #983961;
   border: 2px solid #fff;
   transform: translateY(-3px); 
+}
+
+.section {
+  background-color: #983961;
+}
+
+.section__title {
+  font-size: 15Fpx;
+  font-family: Arial;
+  color: white;
+  margin-top: 0;  
+  line-height: 2;
+  padding-bottom: 8px;  
+}
+.section__content{
+  font-size: 15Fpx;
+  font-family: Arial;
+  color: white;
+  margin-top: 0;  
+  text-align: justify;
+  word-spacing: 3px;
+  line-height: 1.5;
+  padding-bottom: 8px;
+}
+
+.alink {
+  color: #983961;
+  text-decoration: underline;
+}
+
+.alink:hover {
+  color: #983961;
 }
