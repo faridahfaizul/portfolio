@@ -1296,3 +1296,17 @@ hr.new {
 .alink:hover {
   color: #983961;
 }
+
+.view {
+  font-size: 14px;
+  color: #474546;
+}
+
+.linkView {
+  color: #983961;
+}
+
+.linkView:hover {
+  text-decoration: underline;
+  color: #983961;
+}
